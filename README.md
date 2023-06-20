@@ -58,11 +58,11 @@ then
 
 ```javascript
 const bookStore = await BookStore.attach(
-  "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+  "0x5FbDB2315678afecb367f032d93F642f64180"
 );
 ```
 
-To add a new book we can run
+To add a new book we can run the following command using your bookstore address you got
 
 ```javascript
 var newBook = { title: "Becoming", year: 2009 };
