@@ -1,0 +1,4 @@
+ --globnode_modules
+node_modules
+artifacts
+cache
